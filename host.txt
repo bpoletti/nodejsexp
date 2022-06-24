@@ -1,3 +1,7 @@
 localhost:8000
 anonomys functions: functions that are passed in parameters with no name
 dir cd G:\New folder\Work\Experimental\nodejsexp\
+
+install express 
+use npm install express
+follow online steps
